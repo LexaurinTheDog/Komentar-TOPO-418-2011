@@ -25,7 +25,7 @@ Místně zachycené údaje o znění, účinnosti nebo změnách:
 - [§ 48 — Účinnost](02-rizeni-zvlastni-zaverecna.md): „Tento zákon nabývá účinnosti dnem 1. ledna 2012."
 - [§ 7 — Trestné činy, výklad](01-hmotne-pravo.md): „…na rozdíl od úpravy účinné do novely provedené zákonem č. 183/2016 Sb. (která obsahovala pozitivní, uzavřený katalog trestných činů), je od roku 2016 okruh kriminalizovaného jednání právnických osob v zásadě univerzální…"
 - [00-uvod.md](00-uvod.md): „ZTOPO obsahuje celkem **49 paragrafových jednotek v rozmezí § 1 až § 48** (číslování zahrnuje písmenné vsuvky vzniklé pozdějšími novelizacemi — § 20a, § 22a, § 26a a další — zatímco některá čísla, např. § 28 a § 43 až § 47, v aktuálním konsolidovaném znění nejsou obsazena)."
-- [README.md](README.md): odkaz na [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) jako „sněmovní tisk 285, 6. období".
+- [README.md](README.md): odkaz na [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) jako sněmovní tisk 285, 6. volební období.
 
 Písmenné vsuvky (§ 20a, § 22a, § 26a, § 29a, § 33a, § 36a, § 37a) jsou místně doloženým textovým signálem postupné novelizace zákona po jeho přijetí — např. § 29a a § 36a zavádějí shodný hmotný důvod (nezpůsobilost PO vykonávat déle než rok činnost) pro odložení věci, resp. zastavení již zahájeného stíhání; § 33a řeší kolizi trestního stíhání s krizovým řízením finančních institucí; § 37a rozšiřuje okruh trestů ukládatelných trestním příkazem.
 
@@ -136,8 +136,8 @@ Reprezentativní místní normativní věty:
 **Hloubkový test.**
 - Čtěte celou normu jako spojení adresáta, hypotézy, normativního operátoru, předmětu a právního následku — TOPO často kombinuje operátor s vlastní sankcí (§ 32 odst. 1: „jinak jsou tyto úkony neplatné").
 - Rozlište právní dovolení od faktické možnosti, nárok od prostého oprávnění a kompetenci od subjektivního práva — např. právo PO „kdykoliv žádat o zrušení nebo omezení zajištění" (§ 33 odst. 5) je subjektivním procesním právem, zatímco rozhodnutí soudu o zajišťovacím opatření (§ 33 odst. 1) je kompetencí vázanou na neurčitý pojem „důvodná obava".
-- U diskrece (typicky „soud může uložit trest zrušení PO", § 16 odst. 1) určete účel, zákonné meze (sídlo v ČR, převažující trestná činnost), povinná hlediska (§ 14) a způsob přezkumu (odvolání).
-- Domněnku, fikci a přímý právní účinek klasifikujte podle jejich následku — např. § 42 odst. 1 zavádí fikci („považuje se za osobu, která je občanem ČR") účelově omezenou na aplikaci předpisů o mezinárodní justiční spolupráci.
+- U diskrece (typicky „Soud může uložit trest zrušení právnické osoby", § 16 odst. 1) určete účel, zákonné meze (sídlo v ČR, převažující trestná činnost), povinná hlediska (§ 14) a způsob přezkumu (odvolání).
+- Domněnku, fikci a přímý právní účinek klasifikujte podle jejich následku — např. § 42 odst. 1 zavádí fikci („považuje za osobu, která je občanem ČR") účelově omezenou na aplikaci předpisů o mezinárodní justiční spolupráci.
 
 **Místní opora.** [rejstřík komentáře](INDEX.md); [popis komentáře](README.md); [místní důvodová zpráva](DUVODOVA-ZPRAVA.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní mapa právních modalit](PRAVNI-MODALITY.md)
 
@@ -172,7 +172,7 @@ Normativní věty a výkladové pasáže související s prokazováním nebo dů
 - [§ 8 odst. 3](01-hmotne-pravo.md): „Trestní odpovědnosti právnické osoby nebrání, nepodaří-li se zjistit, která konkrétní fyzická osoba jednala způsobem uvedeným v odstavcích 1 a 2." — tzv. anonymní jednání; skutkovým základem stačí prokázání, že k jednání v okruhu § 8 odst. 1–2 vůbec došlo.
 - [§ 8 — výklad k odst. 5](01-hmotne-pravo.md): „Důkazní břemeno ohledně naplnění liberačního důvodu nese obviněná PO, neboť jde o okolnost svědčící v její prospěch, kterou má nejlépe v dispozici."
 - [§ 8 — Kazuistika, bod 4](01-hmotne-pravo.md): „…existence dokumentu bez reálného vymáhání nepředstavuje funkční compliance systém" — rozlišení formální (dokumentární) a materiální (fakticky fungující) compliance jako důkazní téma.
-- [§ 14 odst. 1](01-hmotne-pravo.md): kritéria „povaha a závažnost trestného činu", „poměry právnické osoby", „existence a účinnost preventivních opatření", „působení PO po činu" jako skutečnosti rozhodné pro volbu druhu a výměry trestu.
+- [§ 14 odst. 1](01-hmotne-pravo.md): kritéria „povahu a závažnost trestného činu", „poměry právnické osoby", „existenci a účinnost preventivních opatření", „působení PO po činu" jako skutečnosti rozhodné pro volbu druhu a výměry trestu.
 - [§ 17 odst. 1 a 3](01-hmotne-pravo.md): „zvlášť závažný zločin, kterým… získala nebo se snažila získat majetkový prospěch" a rozsah propadnutí „celý majetek… nebo tu jeho část, kterou soud určí" — vyžadující znalecké odlišení legálně nabytého a trestnou činností kontaminovaného majetku.
 - [§ 18 odst. 1](01-hmotne-pravo.md): „…přihlédne též k výši čistého obratu právnické osoby dosaženého za poslední ukončené účetní období, pokud jej lze zjistit" — podmíněná zjistitelnost jako součást skutkového základu pro určení výše peněžitého trestu.
 
@@ -203,7 +203,7 @@ Zánik trestní odpovědnosti a účinků odsouzení: § 11 (účinná lítost, 
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Místní složka `judikatura/` je v repozitáři založena, ale k okamžiku sepsání této mapy **neobsahuje žádnou kartu rozhodnutí** — jde o čistě strukturální (prázdný) adresář. Tento stav odpovídá metodě popsané v [00-uvod.md](00-uvod.md): „Judikatura (Nejvyššího soudu, Ústavního soudu, případně Soudního dvora EU k souvisejícím unijním povinnostem) je zmiňována **jen obecně** — komentář nevymýšlí konkrétní spisové značky ani skutkové okolnosti rozhodnutí… Konkrétní judikaturní citace se do komentáře doplňují dodatečně strojově z místních zdrojů judikatury." V souladu s tím obsahují jednotlivá ustanovení obou kapitol pravidelně formulaci typu „k [tématu] existuje ustálená trestněprávní doktrína; smyšlené spisové značky neuvádím" (srov. výkladové oddíly a body 3 kazuistiky u prakticky každého z 49 ustanovení).
+Místní složka `judikatura/` je v repozitáři založena, ale k okamžiku sepsání této mapy **neobsahuje žádnou kartu rozhodnutí** — jde o čistě strukturální (prázdný) adresář. Tento stav odpovídá metodě popsané v [00-uvod.md](00-uvod.md): „Judikatura (Nejvyššího soudu, Ústavního soudu, případně Soudního dvora EU k souvisejícím unijním povinnostem) je zmiňována **jen obecně** — komentář nevymýšlí konkrétní spisové značky ani skutkové okolnosti rozhodnutí… Konkrétní judikaturní citace se do komentáře doplňují dodatečně strojově z místních zdrojů judikatury." V souladu s tím obsahují jednotlivá ustanovení obou kapitol pravidelně formulaci typu k danému tématu existuje ustálená doktrína či rozhodovací praxe, s dovětkem, že smyšlené spisové značky neuvádím (srov. výkladové oddíly a body 3 kazuistiky u prakticky každého z 49 ustanovení).
 Ustanovení, u nichž komentář nejvýrazněji signalizuje očekávanou judikatorní návaznost (bez konkrétní citace): § 8 (rozlišení formální a materiální compliance, standard „veškerého úsilí, které lze spravedlivě požadovat"), § 13 (nepromlčitelnost zločinů proti lidskosti jako obecně uznávaná zásada mezinárodního práva), § 16 (typové znaky „schránkové" společnosti), § 20 (požadavek úzké vazby zakázané činnosti na spáchaný trestný čin).
 
 **Hloubkový test.**
